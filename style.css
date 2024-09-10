@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope');
+
+
+body {
+      background-image: url('https://images.unsplash.com/photo-1720423413643-363310b689e8?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover; /* Adatta l'immagine alla dimensione del div */
+    background-position: center;
+  height: 100svh;
+  display: grid;
+  place-items: left;
+  margin-left:50px;
+  
+  font-family: "Manrope", sans-serif;
+  color: white
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+main {
+  font-size: 2rem;
+  text-align: justify;
+  
+  max-width: 50ch;
+}
+
+p {
+  --color: rgba(255, 255, 255);
+  color: #000;
+  display: inline;
+ 
+  border: 2px solid var(--color);
+
+  border-inline: 6px solid var(--color);
+  
+  outline: var(--color) solid 4px;
+  outline-offset: 0px;
+  outline-width: 4px;
+  border-radius: .3em;
+
+  -webkit-box-decoration-break: clone;
+  -o-box-decoration-break: clone;
+  box-decoration-break: clone;
+
+  background-color: var(--color);
+  width: min-content;
+  margin: 0 auto;
+  
+
+  box-shadow: 0 0 0 4px var(--color), 0 0 0 4px var(--color);
+  
+  
+}
