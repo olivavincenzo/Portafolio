@@ -1,3 +1,14 @@
+#post
 Mer 1 Set:
+PRIMO POST
+Lorem Ipsum è semplicemente un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è il testo segnaposto standard del settore fin dal 1500, quando un anonimo tipografo prese una cassetta di caratteri e li impaginò per realizzare un libro campione. È sopravvissuto non solo a cinque secoli, ma anche al passaggio alla tipografia elettronica, rimanendo sostanzialmente invariato. Fu reso popolare negli anni '60 con la diffusione dei fogli Letraset contenenti passaggi del Lorem Ipsum e, più di recente, con software di impaginazione desktop come Aldus PageMaker, che includevano versioni del Lorem Ipsum.
+
+#post
+Mer 2 Set:
+PRIMO POST
+Lorem Ipsum è semplicemente un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è il testo segnaposto standard del settore fin dal 1500, quando un anonimo tipografo prese una cassetta di caratteri e li impaginò per realizzare un libro campione. È sopravvissuto non solo a cinque secoli, ma anche al passaggio alla tipografia elettronica, rimanendo sostanzialmente invariato. Fu reso popolare negli anni '60 con la diffusione dei fogli Letraset contenenti passaggi del Lorem Ipsum e, più di recente, con software di impaginazione desktop come Aldus PageMaker, che includevano versioni del Lorem Ipsum.
+
+#post
+Mer 3 Set:
 PRIMO POST
 Lorem Ipsum è semplicemente un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è il testo segnaposto standard del settore fin dal 1500, quando un anonimo tipografo prese una cassetta di caratteri e li impaginò per realizzare un libro campione. È sopravvissuto non solo a cinque secoli, ma anche al passaggio alla tipografia elettronica, rimanendo sostanzialmente invariato. Fu reso popolare negli anni '60 con la diffusione dei fogli Letraset contenenti passaggi del Lorem Ipsum e, più di recente, con software di impaginazione desktop come Aldus PageMaker, che includevano versioni del Lorem Ipsum.
